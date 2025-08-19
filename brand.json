@@ -1,8 +1,8 @@
 {
-  "brand_name": "Nome da Sua Empresa",
-  "logo": "URL_PUBLICO_PARA_SUA_LOGO.png",
-  "logo_dark": "URL_PUBLICO_PARA_SUA_LOGO_ESCURA.png",
-  "favicon": "URL_PUBLICO_PARA_SEU_FAVICON.ico",
-  "sidebar_logo": "URL_PUBLICO_PARA_LOGO_DA_BARRA_LATERAL.png",
-  "contact_us_url": "URL_DO_SEU_SITE_OU_PAGINA_DE_CONTATO"
+  "brand_name": "Altma Industrial",
+  "logo": "https://raw.githubusercontent.com/kelson-cosme/icons/refs/heads/main/logo.png",
+  "logo_dark": "https://raw.githubusercontent.com/kelson-cosme/icons/refs/heads/main/logo.png",
+  "favicon": "https://raw.githubusercontent.com/kelson-cosme/icons/refs/heads/main/favicon.ico",
+  "sidebar_logo": "https://raw.githubusercontent.com/kelson-cosme/icons/refs/heads/main/logo.png",
+  "contact_us_url": "https://kelson-cosme.vercel.app"
 }

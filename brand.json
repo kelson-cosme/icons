@@ -1,8 +1,8 @@
 {
   "brand_name": "Altma Industrial",
-  "logo": "https://raw.githubusercontent.com/kelson-cosme/icons/refs/heads/main/logo.png",
-  "logo_dark": "https://raw.githubusercontent.com/kelson-cosme/icons/refs/heads/main/logo.png",
-  "favicon": "https://raw.githubusercontent.com/kelson-cosme/icons/refs/heads/main/favicon.ico",
-  "sidebar_logo": "https://raw.githubusercontent.com/kelson-cosme/icons/refs/heads/main/logo.png",
+  "logo": "https://raw.githubusercontent.com/kelson-cosme/icons/main/logo.png",
+  "logo_dark": "https://raw.githubusercontent.com/kelson-cosme/icons/main/logo_dark.png",
+  "favicon": "https://raw.githubusercontent.com/kelson-cosme/icons/main/favicon.ico",
+  "sidebar_logo": "https://raw.githubusercontent.com/kelson-cosme/icons/main/sidebar_logo.png",
   "contact_us_url": "https://kelson-cosme.vercel.app"
 }
